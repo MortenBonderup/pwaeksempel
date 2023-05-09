@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pwaeksempel/static/css/main.073c9b0a.css",
+    "main.js": "/pwaeksempel/static/js/main.8d369dc3.js",
+    "static/js/787.2df2802b.chunk.js": "/pwaeksempel/static/js/787.2df2802b.chunk.js",
+    "service-worker.js": "/pwaeksempel/service-worker.js",
+    "static/media/logo.svg": "/pwaeksempel/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/pwaeksempel/index.html",
+    "main.073c9b0a.css.map": "/pwaeksempel/static/css/main.073c9b0a.css.map",
+    "main.8d369dc3.js.map": "/pwaeksempel/static/js/main.8d369dc3.js.map",
+    "787.2df2802b.chunk.js.map": "/pwaeksempel/static/js/787.2df2802b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8d369dc3.js"
+  ]
+}
